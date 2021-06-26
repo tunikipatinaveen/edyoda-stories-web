@@ -1,6 +1,6 @@
 {
-  "homepage": "https://tunikipatinaveen.github.io/edyoda-stories",
-  "name": "edyoda-stories",
+  "homepage": "https://tunikipatinaveen.github.io/edyoda-stories-web",
+  "name": "edyoda-stories-web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
